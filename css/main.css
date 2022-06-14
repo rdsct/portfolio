@@ -910,6 +910,7 @@ ul.exp span+span {
     margin-bottom: 30px;
     display: block;
     max-width: 780px;
+    width: 100%;
 }
 
 /*Project specific*/
