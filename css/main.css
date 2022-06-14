@@ -1156,6 +1156,13 @@ ul.exp span+span {
     }
 }
 
+@media only screen and (hover: none) and (pointer: coarse) {
+
+    #cursor {
+        visibility: hidden;
+    }
+
+}
 
 @media all and (max-width:1100px) {
     .work {
