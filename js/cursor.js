@@ -12,7 +12,7 @@ document.addEventListener('mousemove', function (e) {
 });
 
 
-
+/*
 var clickableCursor = document.getElementsByTagName('a');
 var clickableCursor2 = document.getElementsByClassName('nav-link');
 
@@ -27,6 +27,8 @@ for (var i = 0; i < clickableCursor.length; i++) {
     });
 
 }
+
+*/
 
 document.addEventListener('click', () => {
     cursor.classList.add("expand");  

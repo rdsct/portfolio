@@ -22,15 +22,12 @@ body {
     height: 40px;
     background-color: white;
     mix-blend-mode: exclusion;
-    transition: .1s;
     border-radius: 50%;
     pointer-events: none;
     transform: translate(-50%, -50%);
     display: flex;
     align-items: center;
     justify-content: center;
-    transition-duration: 100ms;
-    transition-timing-function: ease-out;
 }
 
 .demo {
